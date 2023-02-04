@@ -12,4 +12,4 @@ toml = "0.5.7"
 indicatif = "0.15.0"
 reqwest = { version = "0.10.9", features = ["blocking"] }
 uuid = { version = "0.8.1", features = ["v4"] }
-tokio = { version = "1.8", features = ["full"] }
+tokio = { version = "1.18", features = ["full"] }
